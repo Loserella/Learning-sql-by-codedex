@@ -1,4 +1,3 @@
-# Learning sql by codedex
 #015_What are the counts of all the programming languages?
 #官
 SELECT language, COUNT(*)
