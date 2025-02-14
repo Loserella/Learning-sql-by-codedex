@@ -1,1 +1,1 @@
-# Learning-sql-codedex-io
+# Learning sql by codedex
