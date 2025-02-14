@@ -1,0 +1,10 @@
+# Learning sql by codedex
+#015_What are the counts of all the programming languages?
+#官
+SELECT language, COUNT(*)
+FROM games
+GROUP BY language;
+#我
+SELECT  COUNT(DISTINCT language)
+FROM games;
+#共有多少种编程语言or每种编程语言有多少种

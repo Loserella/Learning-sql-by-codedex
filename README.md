@@ -1,1 +1,0 @@
-# Learning sql by codedex
